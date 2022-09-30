@@ -125,7 +125,7 @@ We decided to make our own Reflection system. It is a way to avoid heavy Reflect
 Actually, we reflect only Component data, and to do this, we are creating a `ClassMetaData` variable for each component class, in which we add a `DataDescriptor` for each component's field. This `ClassMetaData` variable is static.  
 The annoying part is to reflect the fields. Even with macros that shorten the component declaration, the user has to enumerate all the informations of the field.
 
-Anyway, you can see what it looks like [here](component-scripting)
+Anyway, you can see what it looks like [here](doc/reflection.md)
 
 
 ## Serialization
@@ -135,6 +135,6 @@ We decided to make our own Serialization with our own scene text file. This is a
 We didn't choose tinyxml for XML parsing because it is not very helpful, and XML files could be complicated for git merge.  
 Json was our second choice, with the nlohmann json header-only library, but we can't choose how the JSON is written, less free that creates our own scene file.
 
-Learn about our scene files -> [here](scene-file-presentation)
+Learn about our scene files -> [here](doc/serialization.md)
 
 [Head of page](#frakkas-isart-digital-student-game-engine)
