@@ -34,7 +34,7 @@ The universe would be fantasy-futuristic, it will be colored thanks to a cartoon
 There will be only 2 types of enemies, and their number will compensate for their minimal intelligence.
 A timer defines the time it takes to survive the waves of enemies in the arena, once finished, the player must reach a portal to go to another map, and we start again.
 
-> _Game available on itch.io: [Frakkarena](https://fura-i.itch.io/frakkarena)_
+> _Game available on itch.io: [Frakkarena](https://fura-x.itch.io/frakkarena)_
 
 # Game technical challenges
 
